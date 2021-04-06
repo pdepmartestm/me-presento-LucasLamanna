@@ -4,3 +4,4 @@ Hola, mi nombre es Lucas Lamanna, tengo 19 años, es mi segundo año en la facul
 ## Hobbies
 * Juego al fútbol en el Club Italiano de Caballito
 * Me gusta mucho juntarme a hacer asados con mis amigos
+* No estoy tan interesado en la parte de programación
